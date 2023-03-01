@@ -8,7 +8,7 @@ import java.awt.Image;
 
 /**
  *
- * @author RAJAN
+ * @author RAJAN PANCHAL
  */
 public class EmpInfo {
     
